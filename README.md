@@ -1,6 +1,6 @@
 # Mães que codam! :heart: :computer:
 
-## Objetivo
+## Objetivo :dart:
 
 ## Quando apoiamos as mães, apoiamos todas as mulheres.
 
@@ -28,19 +28,19 @@ A influência das mulheres no mercado de trabalho é evidente. Entre 2005 e 2015
 
 > Fonte da pesquisa: https://portal.fgv.br/think-tank/mulheres-perdem-trabalho-apos-terem-filho
 
-### Tecnologias
+### Tecnologias :computer:
 
 Durante todo o curso aprendemos sobre diversas tecnologias, dentre elas: Git e Github, NodeJS e MongoDB. São as tecnologias que farei o possível para implementar até a versão final do projeto.
 
 
-### Aprendizados
+### Aprendizados :books:
 
 Além do curso de programação de qualidade, o Reprograma me auxiliou a ver que posso ir além. Hoje entendo que tenho um tempo de aprendizado e sei que as vezes pode ser mais rápido que alguns ou mais demorado que outros. Por isso respeito meu tempo e me esforço para absorver o máximo enquanto tenho oportunidade.
 A ideia do projeto é mostrar isso pra outras mães. Que devemos respeitar nosso tempo mas nunca desistir de alcançar nossos objetivos. 
 
 
 
-### Informações sobre a rota
+### Informações sobre a rota :rocket:
 
 ```
  📁 api
@@ -58,4 +58,4 @@ A ideia do projeto é mostrar isso pra outras mães. Que devemos respeitar nosso
    |- 📄 server.js
 ```
 
-### Instruções para utilização da API
+### Instruções para utilização da API :book:
