@@ -16,7 +16,7 @@ Você compreende? A mãe e a mulher coexistem e se misturam. Não dá pra ti
 
 Texto: [@rafaelacarvalhoescritora](https://www.instagram.com/rafaelacarvalhoescritora/)
 
-♥️
+:purple_heart:
 
 ## Estudo feito pela Fundação Getúlio Vargas (FGV), com 247 mil mães, mostra que 50% das mulheres são demitidas após, aproximadamente, dois anos da licença maternidade.
 
