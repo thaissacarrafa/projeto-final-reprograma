@@ -30,7 +30,7 @@ A influência das mulheres no mercado de trabalho é evidente. Entre 2005 e 2015
 
 ### Tecnologias
 
-Durante todo o curso aprendemos sobre diversas tecnologias, dentre elas: # Git e Github, NodeJS e MongoDB # . São as tecnologias que farei o possível para implementar até a versão final do projeto.
+Durante todo o curso aprendemos sobre diversas tecnologias, dentre elas: Git e Github, NodeJS e MongoDB. São as tecnologias que farei o possível para implementar até a versão final do projeto.
 
 
 ### Aprendizados
