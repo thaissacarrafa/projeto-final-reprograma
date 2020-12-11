@@ -26,11 +26,11 @@ A influência das mulheres no mercado de trabalho é evidente. Entre 2005 e 2015
 
 A influência das mulheres no mercado de trabalho é evidente. Entre 2005 e 2015, o número de famílias compostas por mães solo subiu de 10,5 milhões para 11,6 milhões, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). O número de lares brasileiros chefiados por mulheres cresceu de 23% para 40% entre 1995 e 2015, de acordo com a pesquisa Retrato das Desigualdades de Gênero e Raça, de 2017, do Instituto de Pesquisa Econômica Aplicada (Ipea).
 
-Fonte da pesquisa: https://portal.fgv.br/think-tank/mulheres-perdem-trabalho-apos-terem-filho
+> Fonte da pesquisa: https://portal.fgv.br/think-tank/mulheres-perdem-trabalho-apos-terem-filho
 
 ### Tecnologias
 
-Durante todo o curso aprendemos sobre diversas tecnologias, dentre elas: Git e Github, NodeJS e MongoDB. São as tecnologias que farei o possível para implementar até a versão final do projeto.
+Durante todo o curso aprendemos sobre diversas tecnologias, dentre elas: # Git e Github, NodeJS e MongoDB # . São as tecnologias que farei o possível para implementar até a versão final do projeto.
 
 
 ### Aprendizados
