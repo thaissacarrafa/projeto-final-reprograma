@@ -1,6 +1,3 @@
-# projeto-final-reprograma
-
-
 # Mães que codam! 
 
 ## Objetivo
