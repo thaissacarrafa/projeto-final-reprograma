@@ -1,4 +1,4 @@
-# Mães que codam! 
+# Mães que codam! :heart: :computer:
 
 ## Objetivo
 
